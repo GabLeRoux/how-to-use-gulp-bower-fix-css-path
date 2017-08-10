@@ -25,3 +25,7 @@ git diff
 ```
 
 Note: This is not working yet, I may have done something wrong ;) Feel free send a PR ;)
+
+## Maybe we should use [gulp-css-adjust-url-path](https://www.npmjs.com/package/gulp-css-adjust-url-path) instead
+
+Looks more appropriate ;)
