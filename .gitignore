@@ -1,0 +1,6 @@
+bower_components
+node_modules
+yarn-error.log
+dist
+# until it's a bit better ;)
+!dist/index.html
